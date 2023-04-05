@@ -112,11 +112,26 @@ X_train.shape
 ### Checking For Duplicate Values:
 ![image](https://user-images.githubusercontent.com/94164665/229984226-95785abb-a86d-47a2-9576-3e0a393cecd7.png)
 ### Describing Data:
+
 ### Checking For Outliers In Exited Column:
+![image](https://user-images.githubusercontent.com/94164665/229985393-29725535-4027-4b7f-befb-3bda7c680760.png)
+
 ### Normalized Dataset:
+![image](https://user-images.githubusercontent.com/94164665/229985103-d48c145e-7cc3-49b0-abc9-36efb8a38d63.png)
 
 ### Describing Normalized Dataset:
-### 
+![image](https://user-images.githubusercontent.com/94164665/229985427-9115dc1d-e599-4579-b04a-ff6d54a816af.png)
+
+### X-Values:
+![image](https://user-images.githubusercontent.com/94164665/229985463-6944cf0f-73aa-4e56-94e7-8cea9f82075f.png)
+
+### Y-Value:
+### X_Train Values:
+### X_Train Size:
+### X_Test Values:
+### X_Test Size:
+### X_Train Shape:
+
 
 ## RESULT:
 Data preprocessing is performed in a data set downloaded from Kaggle.
