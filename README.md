@@ -114,8 +114,9 @@ X_train.shape
 ### Describing Data:
 ### Checking For Outliers In Exited Column:
 ### Normalized Dataset:
-![Uploading image.png…]()
 
+### Describing Normalized Dataset:
+### 
 
 ## RESULT:
 Data preprocessing is performed in a data set downloaded from Kaggle.
