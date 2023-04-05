@@ -122,17 +122,6 @@ X_train.shape
 ### Describing Normalized Dataset:
 ![image](https://user-images.githubusercontent.com/94164665/229985427-9115dc1d-e599-4579-b04a-ff6d54a816af.png)
 
-### X-Values:
-![image](https://user-images.githubusercontent.com/94164665/229985463-6944cf0f-73aa-4e56-94e7-8cea9f82075f.png)
-
-### Y-Value:
-### X_Train Values:
-### X_Train Size:
-### X_Test Values:
-### X_Test Size:
-### X_Train Shape:
-
-
 ## RESULT:
 Data preprocessing is performed in a data set downloaded from Kaggle.
 
