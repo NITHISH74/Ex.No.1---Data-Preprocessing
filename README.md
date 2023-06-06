@@ -1,7 +1,7 @@
-# Ex.No.1---Data-Preprocessing
+# EX01---Data-Preprocessing
 ## AIM:
 
-To perform Data preprocessing in a data set downloaded from Kaggle
+To perform Data preprocessing in a data set downloaded from Kaggle.
 
 ## REQUIPMENTS REQUIRED:
 Hardware – PCs
@@ -39,7 +39,6 @@ vi)  Splitting the data into test and train
 ## PROGRAM:
 ```python
 Developed By: NITHISHWAR S
-
 Register No: 212221230071
 
 
